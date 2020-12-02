@@ -11,11 +11,7 @@ import javax.annotation.Resource;
 import java.net.URI;
 import java.util.List;
 
-/**
- * @author Yang Hao
- * @description
- * @date 2020-09-14 16:51
- */
+
 @RestController
 @Slf4j
 public class OrderController {

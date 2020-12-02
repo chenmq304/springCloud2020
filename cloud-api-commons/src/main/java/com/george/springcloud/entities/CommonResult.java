@@ -4,11 +4,6 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-/**
- * @author Yang Hao
- * @description
- * @date 2020-09-14 15:06
- */
 
 @Data
 @AllArgsConstructor
